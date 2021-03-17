@@ -11,7 +11,7 @@ The performance of algorithms for neural architecture search strongly depends on
 
 ## Reproducing our results
 
-- To generate the Extended Projected Data Jacobian Matrices from a search space see `gen_epdjms.py`. These are necessary for all other scripts. 
+- To generate the Extended Projected Data Jacobian Matrices from a search space see `gen_epdjms.py`. These are necessary for all other scripts. Precomputed EPDJMs are available [here](http://storage.cloud.google.com/contrastive_embeddings_for_neural_architectures).
 -  To generate the transfer learning plots see `make_contrastive_transfer_plots.py`
 -  To simulate NAS on a search space see `make_simulation.py`
 -  To generate the t-SNE visualization of different stages of our method see `make_tsne_figs.py` 
