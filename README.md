@@ -19,5 +19,14 @@ The performance of algorithms for neural architecture search strongly depends on
 ## Citation 
 
 If you found this code and findings useful in your research, please consider citing:
-<Bibtex for citation>
   
+```
+@misc{hesslow2021contrastive,
+      title={Contrastive Embeddings for Neural Architectures}, 
+      author={Daniel Hesslow and Iacopo Poli},
+      year={2021},
+      eprint={2102.04208},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG}
+}
+```
